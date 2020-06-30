@@ -12,7 +12,7 @@
 
 [**_Memes in Digital Culture_**](https://mitpress.mit.edu/books/memes-digital-culture) [Limor Shifman](https://limorshifman.huji.ac.il/)
 
-[**_How to Shoot Video that doesn't Suck_**] (https://www.stevestockman.com/the-book/) [Steve Stockman](https://www.stevestockman.com/)
+[**_How to Shoot Video that doesn't Suck_**](https://www.stevestockman.com/the-book/) [Steve Stockman](https://www.stevestockman.com/)
 
 [**_Mobile First_**](http://mobile-first.abookapart.com/) [Luke Wroblewski](https://www.lukew.com/) — available for free on [a book apart](http://mobile-first.abookapart.com/)
 
