@@ -8,11 +8,11 @@
 
 [**_The Twittering Machine_**](https://www.theindigopress.com/the-twittering-machine) [Richard Seymour](https://twitter.com/leninology)
 
-[**_The Revolution That Wasn’t: How Digital Activism Favors Conservatives_**](https://*www.hup.harvard.edu/catalog.php?isbn=9780674972339)[Jen Schradie](http://schradie.com/)
+[**_The Revolution That Wasn’t: How Digital Activism Favors Conservatives_**](https://*www.hup.harvard.edu/catalog.php?isbn=9780674972339) [Jen Schradie](http://schradie.com/)
 
 [**_Memes in Digital Culture_**](https://mitpress.mit.edu/books/memes-digital-culture) [Limor Shifman](https://limorshifman.huji.ac.il/)
 
-[**_How to Shoot Video that Doesn’t Suck_**](https://www.stevestockman.com/the-book/) [Steve Stockman](https://www.stevestockman.com/)
+[**_How to Shoot Video that Doesn’t Suck_**] (https://www.stevestockman.com/the-book/) [Steve Stockman](https://www.stevestockman.com/)
 
 [**_Mobile First_**](http://mobile-first.abookapart.com/) [Luke Wroblewski](https://www.lukew.com/) — available for free on [a book apart](http://mobile-first.abookapart.com/)
 
