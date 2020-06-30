@@ -18,29 +18,23 @@
 
 [**_The Design of Everyday Things_**](https://www.nngroup.com/books/design-everyday-things-revised/) [Don Norman](https://jnd.org/)
 
----
-
 # Accessibility
 
 [**_W3 Web Accessibility Evaluation Tools List_**](https://www.w3.org/WAI/ER/tools/)
 
 [**_The A11Y Project A community-driven effort to make web accessibility easier_**](https://a11yproject.com/)
 
----
-
 # Personas
 
 [**_How to create a persona_**](https://xtensio.com/how-to-create-a-persona/)
 
-#### **Persona Tools:**
+**Persona Tools:**
 
 [**_Xtensio_**](https://www.xtensio.com)
 
 [**_Mural_**](https://mural.co/)
 
 [**_Smaply_**](https://www.smaply.com)
-
----
 
 # User Experience
 
@@ -56,8 +50,6 @@
 
 [**_Five User Requirements for Online Ads_**](https://www.nngroup.com/articles/user-requirements-online-ads/)
 
----
-
 # Social Media
 
 [**_Hubspot's Types of Social Media (basic)_**](https://blog.hubspot.com/marketing/which-social-networks-should-you-focus-on)
@@ -68,8 +60,6 @@
 
 [**_Social Media Image Size Cheat Sheet_**](https://louisem.com/2852/social-media-cheat-sheet-sizes)
 
----
-
 # Facebook Advertising Resources
 
 [**_Facebook Ad Library_**](https://www.facebook.com/ads/library/)
@@ -79,8 +69,6 @@
 [**_Jon Loomer Advanced Facebook Advertising Guides_**](https://www.jonloomer.com/)
 
 [**_Markeko Facebook Certification and Advertising Guides_**](https://www.markeko.com/)
-
----
 
 # Participant Recommendations
 
