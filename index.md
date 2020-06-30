@@ -18,11 +18,13 @@
 
 [**_The Design of Everyday Things_**](https://www.nngroup.com/books/design-everyday-things-revised/) [Don Norman](https://jnd.org/)
 
+
 # Accessibility
 
 [**_W3 Web Accessibility Evaluation Tools List_**](https://www.w3.org/WAI/ER/tools/)
 
 [**_The A11Y Project A community-driven effort to make web accessibility easier_**](https://a11yproject.com/)
+
 
 # Personas
 
@@ -35,6 +37,7 @@
 [**_Mural_**](https://mural.co/)
 
 [**_Smaply_**](https://www.smaply.com)
+
 
 # User Experience
 
@@ -49,6 +52,7 @@
 [**_How People Read on the web_**](https://www.nngroup.com/articles/how-people-read-online/?lm=applying-writing-guidelines-web-pages&pt=article)
 
 [**_Five User Requirements for Online Ads_**](https://www.nngroup.com/articles/user-requirements-online-ads/)
+
 
 # Social Media
 
@@ -69,6 +73,7 @@
 [**_Jon Loomer Advanced Facebook Advertising Guides_**](https://www.jonloomer.com/)
 
 [**_Markeko Facebook Certification and Advertising Guides_**](https://www.markeko.com/)
+
 
 # Participant Recommendations
 
