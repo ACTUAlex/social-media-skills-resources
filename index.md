@@ -1,29 +1,20 @@
----
-
-firstPublishedAt: 1593482248460
-latestPublishedAt: 1593482248460
-slug: social-media-for-unions-resources-and-footnotes
-title: Social Media for Unions — Resources and Footnotes
-
----
-
 # Books
 
-[***Rules for Revolutionaries — How Big organising can change everything]\*\*\*(http://www.rulesforrevolutionaries.org/) [Becky Bond](https://www.chelseagreen.com/writer/becky-bond/) and [Zack Exley](https://twitter.com/zackexley)
+[**_Rules for Revolutionaries — How Big organising can change everything_**](http://www.rulesforrevolutionaries.org/) [Becky Bond](https://www.chelseagreen.com/writer/becky-bond/) and [Zack Exley](https://twitter.com/zackexley)
 
-[***The hybrid media system: Politics and power]\*\*\*(https://www.andrewchadwick.com/hybrid-media-system) [Andrew Chadwick](https://www.andrewchadwick.com/)
+[**_The hybrid media system: Politics and power_**](https://www.andrewchadwick.com/hybrid-media-system)[Andrew Chadwick](https://www.andrewchadwick.com/)
 
-[***Web ReDesign 2.0 Workflow That Works]\*\*\*(https://www.web-redesign.com/index.html) [Kelly Goto](https://www.gotoresearch.com/kellygoto/) & [Emily Cotler](https://twitter.com/emcotler)
+[**_Web ReDesign 2.0 Workflow That Works_**](https://www.web-redesign.com/index.html) [Kelly Goto](https://www.gotoresearch.com/kellygoto/) & [Emily Cotler](https://twitter.com/emcotler)
 
-\*[**The Twittering Machine\***](https://www.theindigopress.com/the-twittering-machine) [Richard Seymour](https://twitter.com/leninology)
+[**_The Twittering Machine_**](https://www.theindigopress.com/the-twittering-machine) [Richard Seymour](https://twitter.com/leninology)
 
-[**\*The Revolution That Wasn’t: How Digital Activism Favors Conservatives **](https://*www.hup.harvard.edu/catalog.php?isbn=9780674972339)[Jen Schradie](http://schradie.com/)
+[**_The Revolution That Wasn’t: How Digital Activism Favors Conservatives_**](https://*www.hup.harvard.edu/catalog.php?isbn=9780674972339)[Jen Schradie](http://schradie.com/)
 
 [**_Memes in Digital Culture_**](https://mitpress.mit.edu/books/memes-digital-culture) [Limor Shifman](https://limorshifman.huji.ac.il/)
 
-[***How to Shoot Video that Doesn’t Suck]\*\*\*(https://www.stevestockman.com/the-book/) [Steve Stockman](https://www.stevestockman.com/)
+[**_How to Shoot Video that Doesn’t Suck_**(https://www.stevestockman.com/the-book/) [Steve Stockman](https://www.stevestockman.com/)
 
-[***Mobile First]\**(http://mobile-first.abookapart.com/) [Luke Wroblew*ski](https://www.lukew.com/) — available for free on [a book apart](http://mobile-first.abookapart.com/)
+[**_Mobile First_**](http://mobile-first.abookapart.com/) [Luke Wroblewski](https://www.lukew.com/) — available for free on [a book apart](http://mobile-first.abookapart.com/)
 
 [**_The Design of Everyday Things_**](https://www.nngroup.com/books/design-everyday-things-revised/) [Don Norman](https://jnd.org/)
 
@@ -69,7 +60,7 @@ title: Social Media for Unions — Resources and Footnotes
 
 # Social Media
 
-**_Hubspot's Types of Social Media (basic)_** [https://blog.hubspot.com/marketing/which-social-networks-should-you-focus-on](https://blog.hubspot.com/marketing/which-social-networks-should-you-focus-on)
+[**_Hubspot's Types of Social Media (basic)_**} (https://blog.hubspot.com/marketing/which-social-networks-should-you-focus-on)
 
 [**_Sprout Social Social Media Trends 2020_**](https://sproutsocial.com/insights/social-media-trends/)
 
@@ -79,12 +70,12 @@ title: Social Media for Unions — Resources and Footnotes
 
 ---
 
-# **Facebook Advertising Resources:**
+# Facebook Advertising Resources:
 
 [**_Facebook Ad Library_**](https://www.facebook.com/ads/library/)
 
 [**_Facebook Blueprint_**](https://www.facebook.com/business/learn)
 
-**_[Jon Loomer_** **_Advanced Facebook Advertising Gui](h_**ttps://www.jonloomer.com/)des
+[**_Jon Loomer Advanced Facebook Advertising Guides_**](https://www.jonloomer.com/)
 
-[**_Facebook Certification and Advertising Guides_**](https://www.markeko.com/)
+[**_Markeko Facebook Certification and Advertising Guides_**](https://www.markeko.com/)
