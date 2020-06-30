@@ -2,7 +2,7 @@
 
 [**_Rules for Revolutionaries — How Big organising can change everything_**](http://www.rulesforrevolutionaries.org/) [Becky Bond](https://www.chelseagreen.com/writer/becky-bond/) and [Zack Exley](https://twitter.com/zackexley)
 
-[**_The hybrid media system: Politics and power_**](https://www.andrewchadwick.com/hybrid-media-system)[Andrew Chadwick](https://www.andrewchadwick.com/)
+[**_The hybrid media system: Politics and power_**](https://www.andrewchadwick.com/hybrid-media-system) [Andrew Chadwick](https://www.andrewchadwick.com/)
 
 [**_Web ReDesign 2.0 Workflow That Works_**](https://www.web-redesign.com/index.html) [Kelly Goto](https://www.gotoresearch.com/kellygoto/) & [Emily Cotler](https://twitter.com/emcotler)
 
