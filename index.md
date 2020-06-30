@@ -80,6 +80,8 @@
 
 [**_Markeko Facebook Certification and Advertising Guides_**](https://www.markeko.com/)
 
+---
+
 # Participant Recommendations
 
 [**_New Power: How Power Works in Our Hyperconnected World--and How to Make It Work for You_**](https://thisisnewpower.com/) [Heimans and Timms](https://thisisnewpower.com/the-authors/)
