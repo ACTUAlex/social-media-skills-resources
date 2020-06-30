@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+---
 
-You can use the [editor on GitHub](https://github.com/ACTUAlex/social-media-skills-resources/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+firstPublishedAt: 1593482248460
+latestPublishedAt: 1593482248460
+slug: social-media-for-unions-resources-and-footnotes
+title: Social Media for Unions — Resources and Footnotes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+# Books
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[***Rules for Revolutionaries — How Big organising can change everything]\*\*\*(http://www.rulesforrevolutionaries.org/) [Becky Bond](https://www.chelseagreen.com/writer/becky-bond/) and [Zack Exley](https://twitter.com/zackexley)
 
-```markdown
-Syntax highlighted code block
+[***The hybrid media system: Politics and power]\*\*\*(https://www.andrewchadwick.com/hybrid-media-system) [Andrew Chadwick](https://www.andrewchadwick.com/)
 
-# Header 1
-## Header 2
-### Header 3
+[***Web ReDesign 2.0 Workflow That Works]\*\*\*(https://www.web-redesign.com/index.html) [Kelly Goto](https://www.gotoresearch.com/kellygoto/) & [Emily Cotler](https://twitter.com/emcotler)
 
-- Bulleted
-- List
+\*[**The Twittering Machine\***](https://www.theindigopress.com/the-twittering-machine) [Richard Seymour](https://twitter.com/leninology)
 
-1. Numbered
-2. List
+[**\*The Revolution That Wasn’t: How Digital Activism Favors Conservatives **](https://*www.hup.harvard.edu/catalog.php?isbn=9780674972339)[Jen Schradie](http://schradie.com/)
 
-**Bold** and _Italic_ and `Code` text
+[**_Memes in Digital Culture_**](https://mitpress.mit.edu/books/memes-digital-culture) [Limor Shifman](https://limorshifman.huji.ac.il/)
 
-[Link](url) and ![Image](src)
-```
+[***How to Shoot Video that Doesn’t Suck]\*\*\*(https://www.stevestockman.com/the-book/) [Steve Stockman](https://www.stevestockman.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[***Mobile First]\**(http://mobile-first.abookapart.com/) [Luke Wroblew*ski](https://www.lukew.com/) — available for free on [a book apart](http://mobile-first.abookapart.com/)
 
-### Jekyll Themes
+[**_The Design of Everyday Things_**](https://www.nngroup.com/books/design-everyday-things-revised/) [Don Norman](https://jnd.org/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ACTUAlex/social-media-skills-resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+# Accessibility
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[**_W3 Web Accessibility Evaluation Tools List_**](https://www.w3.org/WAI/ER/tools/)
+
+[**_The A11Y Project A community-driven effort to make web accessibility easier_**](https://a11yproject.com/)
+
+---
+
+# Personas
+
+[**_How to create a persona_**](https://xtensio.com/how-to-create-a-persona/)
+
+#### **Persona Tools:**
+
+[**_Xtensio_**](https://www.xtensio.com)
+
+[**_Mural_**](https://mural.co/)
+
+[**_Smaply_**](https://www.smaply.com)
+
+---
+
+# User Experience
+
+[**_Macy’s \$300m red button_**](https://articles.uie.com/three_hund_million_button/)
+
+[**_The Biggest Mistake in Writing for the Web_**](https://www.nngroup.com/videos/biggest-mistake-writing-web/)
+
+[**_AB/Testing_**](https://www.nngroup.com/videos/ab-testing-101/)
+
+[**_The Most Hated Online Advertising Techniques_**](https://www.nngroup.com/articles/most-hated-advertising-techniques/?lm=effective-online-advertising&pt=youtubevideo)
+
+[**_How People Read on the web_**](https://www.nngroup.com/articles/how-people-read-online/?lm=applying-writing-guidelines-web-pages&pt=article)
+
+[**_Five User Requirements for Online Ads_**](https://www.nngroup.com/articles/user-requirements-online-ads/)
+
+---
+
+# Social Media
+
+**_Hubspot's Types of Social Media (basic)_** [https://blog.hubspot.com/marketing/which-social-networks-should-you-focus-on](https://blog.hubspot.com/marketing/which-social-networks-should-you-focus-on)
+
+[**_Sprout Social Social Media Trends 2020_**](https://sproutsocial.com/insights/social-media-trends/)
+
+[**_Hootsuite Social Media Trends 2020_**](https://hootsuite.com/research/social-trends)
+
+[**_Social Media Image Size Cheat Sheet_**](https://louisem.com/2852/social-media-cheat-sheet-sizes)
+
+---
+
+# **Facebook Advertising Resources:**
+
+[**_Facebook Ad Library_**](https://www.facebook.com/ads/library/)
+
+[**_Facebook Blueprint_**](https://www.facebook.com/business/learn)
+
+**_[Jon Loomer_** **_Advanced Facebook Advertising Gui](h_**ttps://www.jonloomer.com/)des
+
+[**_Facebook Certification and Advertising Guides_**](https://www.markeko.com/)
