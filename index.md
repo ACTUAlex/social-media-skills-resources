@@ -60,7 +60,7 @@
 
 # Social Media
 
-[**_Hubspot's Types of Social Media (basic)_**] (https://blog.hubspot.com/marketing/which-social-networks-should-you-focus-on)
+[**_Hubspot's Types of Social Media (basic)_**](https://blog.hubspot.com/marketing/which-social-networks-should-you-focus-on)
 
 [**_Sprout Social Social Media Trends 2020_**](https://sproutsocial.com/insights/social-media-trends/)
 
@@ -70,7 +70,7 @@
 
 ---
 
-# Facebook Advertising Resources:
+# Facebook Advertising Resources
 
 [**_Facebook Ad Library_**](https://www.facebook.com/ads/library/)
 
@@ -79,3 +79,7 @@
 [**_Jon Loomer Advanced Facebook Advertising Guides_**](https://www.jonloomer.com/)
 
 [**_Markeko Facebook Certification and Advertising Guides_**](https://www.markeko.com/)
+
+# Participant Recommendations
+
+[**_New Power: How Power Works in Our Hyperconnected World--and How to Make It Work for You_**](https://thisisnewpower.com/) [Heimans and Timms](https://thisisnewpower.com/the-authors/)
