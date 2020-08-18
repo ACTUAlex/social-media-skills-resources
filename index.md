@@ -1,5 +1,7 @@
 # Books
 
+[**Introduction to Online Campaigning for Unions_**] (https://alexwhite.org/introduction-to-online-campaigning-for-unions/)
+
 [**_Rules for Revolutionaries — How Big organising can change everything_**](http://www.rulesforrevolutionaries.org/) [Becky Bond](https://www.chelseagreen.com/writer/becky-bond/) and [Zack Exley](https://twitter.com/zackexley)
 
 [**_The hybrid media system: Politics and power_**](https://www.andrewchadwick.com/hybrid-media-system) [Andrew Chadwick](https://www.andrewchadwick.com/)
@@ -17,7 +19,6 @@
 [**_Mobile First_**](http://mobile-first.abookapart.com/) [Luke Wroblewski](https://www.lukew.com/) — available for free on [a book apart](http://mobile-first.abookapart.com/)
 
 [**_The Design of Everyday Things_**](https://www.nngroup.com/books/design-everyday-things-revised/) [Don Norman](https://jnd.org/)
-
 
 # Accessibility
 
