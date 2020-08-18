@@ -1,6 +1,6 @@
 # Books
 
-[**Introduction to Online Campaigning for Unions_**] (https://alexwhite.org/introduction-to-online-campaigning-for-unions/)
+[**_Introduction to Online Campaigning for Unions_**] (https://alexwhite.org/introduction-to-online-campaigning-for-unions/)
 
 [**_Rules for Revolutionaries — How Big organising can change everything_**](http://www.rulesforrevolutionaries.org/) [Becky Bond](https://www.chelseagreen.com/writer/becky-bond/) and [Zack Exley](https://twitter.com/zackexley)
 
