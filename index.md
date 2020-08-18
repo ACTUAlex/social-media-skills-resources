@@ -20,6 +20,7 @@
 
 [**_The Design of Everyday Things_**](https://www.nngroup.com/books/design-everyday-things-revised/) [Don Norman](https://jnd.org/)
 
+
 # Accessibility
 
 [**_W3 Web Accessibility Evaluation Tools List_**](https://www.w3.org/WAI/ER/tools/)
@@ -53,7 +54,6 @@
 [**_How People Read on the web_**](https://www.nngroup.com/articles/how-people-read-online/?lm=applying-writing-guidelines-web-pages&pt=article)
 
 [**_Five User Requirements for Online Ads_**](https://www.nngroup.com/articles/user-requirements-online-ads/)
-
 
 # Social Media
 
