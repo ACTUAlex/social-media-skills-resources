@@ -1,7 +1,5 @@
 # Books
 
-[**_Introduction to Online Campaigning for Unions_**](https://alexwhite.org/introduction-to-online-campaigning-for-unions/) [Alex White](https://www.alexwhite.org)
-
 [**_Rules for Revolutionaries — How Big organising can change everything_**](http://www.rulesforrevolutionaries.org/) [Becky Bond](https://www.chelseagreen.com/writer/becky-bond/) and [Zack Exley](https://twitter.com/zackexley)
 
 [**_The hybrid media system: Politics and power_**](https://www.andrewchadwick.com/hybrid-media-system) [Andrew Chadwick](https://www.andrewchadwick.com/)
@@ -74,9 +72,4 @@
 [**_Jon Loomer Advanced Facebook Advertising Guides_**](https://www.jonloomer.com/)
 
 [**_Markeko Facebook Certification and Advertising Guides_**](https://www.markeko.com/)
-
-
-# Participant Recommendations
-
-[**_New Power: How Power Works in Our Hyperconnected World--and How to Make It Work for You_**](https://thisisnewpower.com/) [Heimans and Timms](https://thisisnewpower.com/the-authors/)
 
